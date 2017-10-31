@@ -13,7 +13,7 @@ ihatethisMARK.mp3
 and we want to remove the `MARK` from all the file names.
 
 ```
-> python current/directory/path
+> python script.py current/directory/path
 ```
 
 and following the prompts will clean up your directory as desired.
