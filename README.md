@@ -17,3 +17,5 @@ and we want to remove the `MARK` from all the file names.
 ```
 
 and following the prompts will clean up your directory as desired.
+
+Felt like a silly little script, might delete later.
